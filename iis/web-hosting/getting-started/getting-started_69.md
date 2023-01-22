@@ -9,7 +9,7 @@ msc.type: authoredcontent
 ---
 # Getting Started
 
-by [Walter Oliver](https://github.com/walterov)
+by [Samuel Chibunna](https://github.com/patooworld)
 
 ## Overview
 
